@@ -62,6 +62,13 @@ Execute three parallel research lines, then synthesize:
 
 **Line C — Topic novelty assessment:** Search Harvard Business Publishing, Case Centre, CEIBS/Tsinghua/Peking/CKGSB case libraries for: (1) existing cases on this company and their angles, (2) same-industry cases, (3) same-topic cases (e.g., "digital transformation", "going global"). Identify 5–7 potential case directions without pre-constraining to a single course.
 
+Before evaluating, classify each potential direction by **case type** (Ellet's taxonomy):
+- **Decision case** — protagonist must make a choice (most common, default)
+- **Problem diagnosis case** — root cause must be identified
+- **Evaluation case** — a past decision/strategy must be assessed
+
+This classification shapes everything downstream: question design, information needs, and narrative structure. Most cases are decision cases, but knowing the type early prevents structural confusion later.
+
 Then evaluate each direction using the 5-dimension matrix. See `references/topic-evaluation.md` for the full matrix (novelty, teaching value, theoretical richness, information availability, discussion scope).
 
 **Output:**
@@ -120,6 +127,20 @@ Execute:
 2. **Each iteration focuses on one problem.** Don't try to fix everything at once.
 3. **Proactively flag bottlenecks.** If information is insufficient for a good topic, say so directly.
 4. **Theory serves analysis.** Literature review finds "the knife that cuts the phenomenon," not citation padding.
+
+## Case Difficulty Classification
+
+When planning or reviewing a case, assess its difficulty on three independent dimensions (adapted from Leenders/Erskine/Mauffette-Leenders' Case Difficulty Cube):
+
+| Dimension | Level 1 (Easy) | Level 2 (Medium) | Level 3 (Hard) |
+|-----------|---------------|-------------------|----------------|
+| **Analytical** | Information provided, apply one framework | Prioritize among options, some ambiguity | Define the problem yourself, high uncertainty |
+| **Conceptual** | One theory/framework needed | 2–3 theories to integrate | Cross-disciplinary, novel framework needed |
+| **Presentation** | Well-organized, clear data | Some information must be sorted/calculated | Scattered, requires significant synthesis |
+
+Use this to: (1) match case difficulty to target audience (MBA vs. EMBA vs. EE), (2) ensure Exhibits and body structure align with intended difficulty, (3) communicate difficulty to instructors in the teaching note.
+
+This is a planning and communication tool — it does not override the rubric scoring dimensions.
 
 ## Key Quality Standards (Quick Reference)
 

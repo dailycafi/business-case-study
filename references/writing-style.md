@@ -112,7 +112,11 @@ Effects:
 | Internet slang | "破防了" "打工人" "内卷" "躺平" | Use formal business language |
 | Subjective judgment | "明智的决策" "出色的领导力" | Describe process and results; let readers judge |
 
-## Standard Three-Part Structure
+## Narrative Structure
+
+### Default: Decision Frame Cut (三段式)
+
+This is the standard structure. Use it unless there is a specific reason not to.
 
 ```
 Part 1: Decision Scene (10–15% of total)
@@ -131,6 +135,10 @@ Part 3: Return to Decision (5–10%)
 ├─ Emphasize importance and complexity
 └─ Open ending — leave space for student thinking
 ```
+
+### Alternative: Story Line Cut (chronological)
+
+Rarely needed, but appropriate when the case's teaching value comes from the journey itself rather than a single decision point — e.g., a multi-decade transformation where the pattern of decisions matters more than any one choice. In this structure, events unfold chronologically, with the decision point emerging at the end. Only use if the user explicitly requests it or if the Decision Frame Cut clearly does not fit.
 
 ## Opening Design Examples
 
