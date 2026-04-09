@@ -1,21 +1,29 @@
-# Business Case Study Skill for Claude
+# Teaching Case Development Skill for Claude
 
-Structured business case analysis in the Harvard Business School (HBS) tradition. Produces rigorous, insight-driven case analyses with strategic frameworks, alternatives evaluation, and actionable recommendations.
+A comprehensive skill for developing business school teaching cases — from topic evaluation through writing, classroom testing, to journal submission.
 
 ## What It Does
 
-- Reads business case materials (PDF, pasted text, or verbal descriptions)
-- Applies 2-3 relevant strategic frameworks (SWOT, Porter's Five Forces, PESTLE, BCG Matrix, Value Chain, etc.)
-- Identifies key strategic issues ranked by impact
-- Evaluates 3 distinct alternatives with pros/cons/feasibility
-- Delivers a defended recommendation with implementation roadmap
-- Supports both Chinese and English output
+Guides case authors through a 6-stage iterative workflow:
+
+1. **Direction Anchoring** — three-line parallel research (company, industry, novelty)
+2. **Information Exhaustion** — 5-dimension topic evaluation matrix, interview outline design
+3. **Information Collection** — interview transcript analysis, topic crystallization
+4. **Writing-Crystallization Loop** — iterative case body + teaching note development with "triple delivery" per round (manuscript, alignment check, next step)
+5. **Classroom Testing** — feedback integration
+6. **Submission / Revision** — rubric benchmarking, reviewer response
+
+## Key Features
+
+- **5-dimension topic evaluation matrix**: novelty, teaching value, theoretical richness, information availability, discussion scope
+- **Rubric-aligned quality checks**: case body (4x25 points) and teaching note (25+15+35+25 points)
+- **Writing style enforcement**: narrative (HBS+WSJ), forbidden expression detection, citation standards
+- **Teaching note design**: What→Why→How logic chain, Bloom's taxonomy, "升维" (elevation) methodology
+- **Trigger word system**: natural language triggers for each stage transition
 
 ## Install
 
 ### Claude Code
-
-Place the skill folder in your Claude Code skills directory:
 
 ```bash
 git clone https://github.com/dailycafi/business-case-study.git ~/.claude/skills/business-case-study
@@ -23,29 +31,29 @@ git clone https://github.com/dailycafi/business-case-study.git ~/.claude/skills/
 
 ### Claude.ai
 
-1. Download this repo as a ZIP
-2. Open Claude.ai > Settings > Capabilities > Skills
-3. Upload the ZIP file
-4. Enable the skill
+Download as ZIP, upload via Settings > Capabilities > Skills.
 
 ## Usage
 
-Just describe your case study task:
+Natural language triggers:
 
-- "帮我分析 Southwest Airlines 的案例，教授要求用 Porter's Five Forces 和 SWOT"
-- "Analyze Netflix's decision to split streaming and DVD in 2011"
-- Upload a case PDF and ask: "写一篇 case analysis"
-
-The skill automatically activates when it detects case study analysis requests.
+- "新案例：[公司名]，[课程方向]，一手/二手"
+- "采访回来了" + paste transcript
+- "开始写" or share a draft
+- "选题定了：[description]"
+- "准备投稿"
+- "审稿意见回来了" + paste reviewer comments
 
 ## Structure
 
 ```
 business-case-study/
-├── SKILL.md                    # Core workflow (~150 lines)
-├── references/
-│   └── frameworks.md           # Detailed framework guide (SWOT, Porter's, PESTLE, financial ratios)
-└── README.md                   # This file (for humans, not loaded by Claude)
+├── SKILL.md                              # Core workflow + triggers
+└── references/
+    ├── topic-evaluation.md               # 5-dimension matrix, 3-line research
+    ├── rubric-case-body.md               # Case body scoring (4x25 pts)
+    ├── rubric-teaching-note.md           # Teaching note scoring (25+15+35+25)
+    └── writing-style.md                  # Narrative style, forbidden expressions
 ```
 
 ## License
