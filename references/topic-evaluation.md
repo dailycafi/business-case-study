@@ -1,5 +1,18 @@
 # Topic Evaluation Methodology
 
+## Core Philosophy
+
+**Topic selection is about finding blanks, not filling slots.**
+
+Teaching value formula:
+```
+Value = f(Importance × Discussion Space) × Novelty Coefficient
+```
+
+Novelty is a **multiplier**, not an addend. A highly important topic with zero novelty (written hundreds of times) has near-zero marginal teaching value. A moderately important topic in blank territory can be transformative.
+
+---
+
 ## Three-Line Parallel Research
 
 ### Line A: Company Deep Scan
@@ -45,6 +58,16 @@ For each search, determine:
 ## Five-Dimension Evaluation Matrix
 
 For each potential direction, systematically evaluate:
+
+**Dimension weights (for prioritization):**
+
+| Dimension | Weight | Rationale |
+|-----------|--------|-----------|
+| Novelty | Highest (最高) | Multiplier effect — zero novelty kills value |
+| Teaching Value | High (高) | Core purpose of a teaching case |
+| Theoretical Richness | Medium-High (中高) | Enables depth and elevation |
+| Information Availability | Medium (中) | Practical constraint |
+| Discussion Scope | Medium (中) | Structural fit |
 
 ### Dimension 1: Novelty (Highest Weight)
 - Has this angle been sufficiently covered in existing case libraries?
@@ -113,7 +136,16 @@ A good case needs a clear decision node — the protagonist faces a choice at a 
 - Have real time pressure or urgency
 - Integrate multiple analytical dimensions
 - Have no obvious "correct answer"
-- Differentiate from existing cases on the same company (retrospective vs. forward-looking, strategic vs. execution level, etc.)
+- Differentiate from existing cases on the same company along these dimensions:
+
+**Differentiation dimensions table:**
+
+| Dimension | Pole A | Pole B |
+|-----------|--------|--------|
+| Time perspective | Retrospective (回顾性) | Forward-looking (前瞻性) |
+| Analysis level | Strategic (战略层) | Execution (执行层) |
+| Subject perspective | Whole enterprise | Business line / Individual manager |
+| Course positioning | Strategy / Organization | Marketing / Operations / Finance |
 
 ---
 
@@ -129,11 +161,19 @@ For the final 2–3 recommended directions, pre-assess 2–3 potentially fitting
 
 ## Interview Outline Design Principles (for Primary Cases)
 
-- Organize by thematic modules, not chronologically
-- Annotate the purpose of each question
-- Different directions should have independent outlines for flexible combination
-- Cover: founding story, key decisions, turning points, challenges, organizational dynamics, future plans
-- Include "fatal gap" questions — information without which the case cannot work
+1. **Organize by thematic modules**, not chronologically
+2. **Annotate the purpose** of each question (which discussion Q it serves)
+3. **Separate outlines per direction** — different recommended directions get independent outlines for flexible combination
+4. **Flow from rapport to core to close** — warm-up questions → core strategic questions → wrap-up/future
+5. **Ask for specifics, not abstractions** — "Can you walk me through a specific example of how that decision was made?" is 100x more valuable than "What's your view on innovation?"
+6. **Pre-embed follow-up triggers** — design questions that naturally lead to follow-ups (e.g., "You mentioned X earlier — how did the team react?")
+7. **Quantity control**: aim for 20–30 questions, 60–90 minutes total interview time
+8. Include "fatal gap" questions — information without which the case cannot work
+
+**Interview technique reminders** (attach to outline for interviewer):
+- Capture internal disagreements — ask "Was everyone on the same page?" or "Who pushed back?"
+- Pin down key numbers — revenue, headcount, timeline, market share
+- Watch for emotional moments — pauses, tone shifts, hedging — these often signal the real story
 
 ---
 

@@ -150,7 +150,7 @@ This is a planning and communication tool — it does not override the rubric sc
 
 **Writing style:** Narrative (HBS + WSJ style). No sensationalism, no consulting jargon, no subjective judgment. See `references/writing-style.md`.
 
-**Teaching note design:** What→Why→How question logic, Bloom's taxonomy progression, "升维" (elevation) opportunities. See `references/teaching-note-structure.md`.
+**Teaching note design:** What→Why→How question logic, Bloom's taxonomy progression, "升维" (elevation) opportunities. See `references/teaching-note-structure.md`. For 14-step practical workflow, self-check checklist, scoring reference, and award encouragement directions, see `references/practical-workflow.md`.
 
 ## Language Convention
 

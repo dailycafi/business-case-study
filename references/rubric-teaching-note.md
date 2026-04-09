@@ -11,6 +11,33 @@
 - SMART principle applied
 - Bloom's taxonomy progression from low to high order
 
+**SMART principle example (POOK case):**
+```
+1. Explore the key steps enterprises should take when introducing and
+   implementing AI technology.                              [Specific, Measurable]
+2. Apply the Task-based Approach to understand how AI can be integrated
+   into business processes.                                 [Achievable]
+3. Discuss the adaptability of different organizational types when
+   introducing AI.                                          [Relevant]
+4. Anticipate the broad impact of LLMs as a general-purpose technology.
+                                                            [Time-bound]
+```
+
+**Objective layer design (3–4 objectives):**
+```
+Layer 1: Knowledge & Comprehension
+- Understand the background of...
+- Describe the key features of...
+
+Layer 2: Application & Analysis
+- Apply [framework] to analyze...
+- Identify the key factors in...
+
+Layer 3: Synthesis & Evaluation
+- Evaluate the pros/cons of...
+- Propose improvements for...
+```
+
 **Bloom's levels in question design:**
 
 | Level | Type | Verbs | Example |
@@ -168,6 +195,28 @@ V. Theoretical Elevation (200–300 words)
 └─ Connection to other course content
 ```
 
+**Framework-question mapping example (POOK case):**
+```
+Q1 (AI adoption steps):     Innovation Adoption Cycle + Kotter's 8-Step Change Model
+Q2 (AI-business integration): Task-based Approach + Value Chain Analysis
+Q3 (Org adaptability):      Amoeba Management Model + Modular Organization
+Q4 (LLM as GPT):            General-Purpose Technology Theory + Data Network Effects
+```
+
+**Advanced technique: Comparison analysis**
+
+Create structured comparison tables to help students see contrasts:
+```
+Dynamic Capabilities vs. Data Network Effects
+
+| Dimension              | Dynamic Capabilities    | Data Network Effects     |
+|------------------------|------------------------|--------------------------|
+| Theoretical core       | Sense-Seize-Transform  | Data flywheel             |
+| Core approach          | Organizational learning | Platform data accumulation|
+| Specific practices     | Internal restructuring  | Ecosystem data sharing    |
+| Competitive advantage  | Adaptive capability     | Scale-driven lock-in      |
+```
+
 **Theory source requirements:**
 - Academic frontier: top journals in last 5 years (SMJ, AMJ, ASQ, MS, etc.)
 - Classic theory: foundational research (Porter, Teece, Barney, etc.)
@@ -244,6 +293,16 @@ Example (POOK): R.I.C.H. framework for AI implementation's human dimension:
 11. Appendix (if needed)
 ```
 
+**Reading material category allocation:**
+
+| Category | % | Quantity | Examples |
+|----------|---|---------|---------|
+| Academic frontier | 30% | 3–5 papers | Eloundou et al. (2023) GPTs are GPTs; Teece (2007) Dynamic Capabilities |
+| Classic theory | 20% | 2–3 books | Rogers (2003) Diffusion of Innovations; Kotter (1996) Leading Change |
+| Industry practice | 20% | 2–3 reports | McKinsey (2024) State of AI; Accenture (2022) Path to AI Maturity |
+| Related cases | 15% | 2–3 cases | Comparable companies or same-issue cases from other industries |
+| Supplementary | 15% | 2–3 items | Review articles, technology trend reports, policy documents |
+
 **Reading material quality:**
 - [ ] All references have complete APA citations
 - [ ] Academic papers from SSCI/SCI journals
@@ -258,11 +317,28 @@ Example (POOK): R.I.C.H. framework for AI implementation's human dimension:
 3. Practical implications: specific advice for managers
 4. Teaching value: case's unique position in the course
 
+**Discussion summary example (Pukang case):**
+```
+This case uses Pukang as an example to explore how intermediaries and
+enterprise service providers can build evolving competitive advantages
+through strategic-organizational alignment. Through discussion, students
+can master:
+
+1. General patterns of strategic evolution: from value chain to value network
+2. How org structure matches strategic needs: Amoeba → Middle platform → Ecosystem
+3. Three dimensions of dynamic capabilities: Sensing, Seizing, Transforming
+4. New sources of competitive advantage in the digital era: from dynamic
+   capabilities to data network effects
+
+These insights have general implications for companies operating from
+resource-disadvantaged, peripheral ecological positions.
+```
+
 **Supplementary materials (when possible):**
 - Video: company promotional, founder interviews, product demos
 - PPT: background intro (10–15 slides), theory framework lecture (15–20 slides)
 - Data files: Excel financial models, industry data
-- Teaching aids: role-play guides, group discussion prompt cards
+- Teaching aids: role-play guides, group discussion prompt cards, student performance assessment rubric
 
 ### Good (20–22): Mostly complete structure; some summary; limited supplementary materials
 ### Passing (15–19): Incomplete structure; thin summary; missing readings
